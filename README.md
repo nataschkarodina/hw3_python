@@ -86,7 +86,7 @@ y_lim = 40000
 ```
 ![alt text](q30_3.png)
 
-The calculated genome size is: 
+The calculated genome size is: 11463694
 
 ## WITHOUT QUALITY OF NUCLEOTIDE READING CUTOFF
 
@@ -100,5 +100,5 @@ y_lim = 40000
 ```
 ![alt text](q0_3.png)
 
-The calculated genome size is: 
+The calculated genome size is: 8091058
 
