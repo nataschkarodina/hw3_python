@@ -84,6 +84,8 @@ cut = 20 #set the cutoff parameter
 x_lim = 200
 y_lim = 40000
 ```
+![alt text](https://raw.githubusercontent.com/nataschkarodina/hw3_python/q38.png)
+
 * Hope you liked the skript
 * And found it useful
 * Good luck!
