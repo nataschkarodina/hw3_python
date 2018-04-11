@@ -84,8 +84,21 @@ cut = 20 #set the cutoff parameter
 x_lim = 200
 y_lim = 40000
 ```
-![alt text](q38.png)
+![alt text](q30_3.png)
 
-* Hope you liked the skript
-* And found it useful
-* Good luck!
+The calculated genome size is: 
+
+## WITHOUT QUALITY OF NUCLEOTIDE READING CUTOFF
+
+The set parameters:
+```
+kmer_size = 11 #the size of kmer
+quality_for_nucleotide = 0 #quality of single nucleotide reading setup
+cut = 50 #set the cutoff parameter
+x_lim = 300
+y_lim = 40000
+```
+![alt text](q0_3.png)
+
+The calculated genome size is: 
+
